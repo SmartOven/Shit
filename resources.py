@@ -1,3 +1,4 @@
+# coding=utf-8
 def unique(a):
     b = []
     for i in range(len(a)):
